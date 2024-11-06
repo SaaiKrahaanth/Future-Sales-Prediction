@@ -22,7 +22,7 @@ In Jupyter Notebook, you can create a new notebook or open an existing one.
 
 Click "New" to create a new notebook, or navigate to the directory containing your existing notebook and open it.
 
-## Introductions
+## Introductions:-
 
 
 This project is designed to predict future sales based on historical sales data using machine learning techniques. This README will provide instructions on how to run the code and list any dependencies required for the project.
